@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fermarcosmac
-- 👀 I’m interested in  Signal Processing and ML, specially when applied to audio systems, acoustics & music engineering.
+- 👀 I’m interested in Mathematical Programming, Signal Processing and ML, specially when applied to audio systems, acoustics & music engineering.
 - 🌱 I’m currently undertaking a PhD program in Communication Technologies and Systems (PD TSC) at Universidad Politecnica de Madrid (SSR UPM).
-- 💞️ I work with the Signal Processing Applications Group (GAPS) in the fields of HRTF auralization and non-linear electrical and electro-acoustical system characterization, among others.
+- 💞️ I work with the Signal Processing Applications Group (GAPS) in the fields non-linear electrical and electro-acoustical system identification and compensatoin and optimization theory, among others.
 - 📫 How to reach me: fernando.marcos.macias@alumnos.upm.es
 
 <!---
